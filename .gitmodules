@@ -1,0 +1,3 @@
+[submodule "examplemoudle"]
+	path = examplemoudle
+	url = https://github.com/iwanwang-0/examplemoudle.git
